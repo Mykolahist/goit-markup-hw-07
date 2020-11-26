@@ -221,6 +221,8 @@ p {
   color: var(--accent);
   background-color: var(--white);
 }
+
+/* модальное окно */
 .backdrop {
   position: fixed;
   top: 0;
